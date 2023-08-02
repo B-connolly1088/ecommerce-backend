@@ -4,6 +4,8 @@
 E-Commerce Back End
 ## Description
 This application is designed for an Ecommerce business owner who would like to record data about their companie's inventory and product selection. This application allows a business owner to update product information and also add new products to their catalog of products. This application was built using JavaScript and utilizes the  MySQL database structure.
+![Screenshot](/images/Screenshot%202023-08-02%20094931.png)
+![GitHub](https://github.com/B-connolly1088/ecommerce-backend)
 ## Table of Contents
 - [Usage](#Usage)
 - [License](#license)
